@@ -1,0 +1,12 @@
+com/example/imagedata/BuildConfig.java
+ com.example.imagedata.BuildConfig
+com/example/imagedata/data/ImagesDatabase_Impl.java
+ com.example.imagedata.data.ImagesDatabase_Impl
+ com.example.imagedata.data.ImagesDatabase_Impl$1
+com/example/imagedata/data/ImageDataDao_Impl.java
+ com.example.imagedata.data.ImageDataDao_Impl
+ com.example.imagedata.data.ImageDataDao_Impl$1
+ com.example.imagedata.data.ImageDataDao_Impl$2
+ com.example.imagedata.data.ImageDataDao_Impl$3
+ com.example.imagedata.data.ImageDataDao_Impl$4
+ com.example.imagedata.data.ImageDataDao_Impl$5
